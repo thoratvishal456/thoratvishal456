@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thoratvishal456
+- 👋 Hi, I’m Vishal Thorat.
 - 🌱 I’m currently learning Vue.js and React.
 - 💞️ I’m looking to collaborate on Ruby On Rails.
 - 📫 You can reach me at thoratvishal456@gmail.com
